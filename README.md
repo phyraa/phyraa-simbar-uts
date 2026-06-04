@@ -1,4 +1,9 @@
 # SIMBAR
+Nama   : Muhammad Rafi
+Kelas  : IF404
+NIM    : 240401010210
+
+# SIMBAR
 
 Sistem Manajemen Inventaris Barang
 
